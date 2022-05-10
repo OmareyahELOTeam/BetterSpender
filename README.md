@@ -1,7 +1,7 @@
 # BetterSpender
 An Android application for shopping lists and tracking spending
 
-[Install](/releases/latest/)
+[Install](https://github.com/OmareyahELOTeam/BetterSpender/releases/latest/)
 
 How many times have you gone down to the supermarket to buy milk, bread, or salt, only to find yourself loading up chocolate and potato chips?
 
